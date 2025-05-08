@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "late-cherry-86e8",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "2050e86e-f573-4c7b-8b07-b0bf0f7d0cac",
+      "database_name": "quiet-star-4e27-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
